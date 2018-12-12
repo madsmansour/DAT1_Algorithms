@@ -68,6 +68,8 @@ public class Compressed {
         }
 
         System.out.println(compressed.toString());
+        System.out.println(numberString.length());
+        System.out.println(compressed.length());
 
     }
 }
